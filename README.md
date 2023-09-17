@@ -2,7 +2,7 @@
 
 This is the latest version of AMM. the original version is available at https://github.com/kingchiuoy/Ada-Matching. We recommend you to use this one.
 
-All the dependencies have been written in the pom.xml file, you can directly use Maven to compile or build the project.
+All the dependencies have been written in the **pom.xml** file, you can directly use Maven to compile or build the project.
 
 The main function is in "Algorithm/src/main/java/Matching.java", and the source code of AMM is in "Algorithm/src/main/java/AMM".
 
