@@ -1,6 +1,6 @@
 # AMM: An Adaptive Online Map Matching Algorithm
 
-This is the latest version of AMM. the original version is available at https://github.com/kingchiuoy/Ada-Matching. We recommend you to use this one.
+This is the latest version of AMM. the original version is available at https://github.com/kingchiuoy/Ada-Matching. We recommend you to use this latest one.
 
 All the dependencies have been written in the **pom.xml** file, you can directly use Maven to compile or build the project.
 
